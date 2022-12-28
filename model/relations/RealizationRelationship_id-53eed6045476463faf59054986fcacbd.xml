@@ -1,0 +1,14 @@
+<archimate:RealizationRelationship
+    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="basada en"
+    id="id-53eed6045476463faf59054986fcacbd">
+  <profiles
+      href="folder.xml#id-1f079abb76dc4f4595866b5cc2c99211"/>
+  <source
+      xsi:type="archimate:BusinessObject"
+      href="BusinessObject_id-54e89e8e3c9a428f9ea8a9b7265a1f11.xml#id-54e89e8e3c9a428f9ea8a9b7265a1f11"/>
+  <target
+      xsi:type="archimate:Requirement"
+      href="Requirement_id-ffc09ce2aa6f4bed92aecc54834ff3c1.xml#id-ffc09ce2aa6f4bed92aecc54834ff3c1"/>
+</archimate:RealizationRelationship>

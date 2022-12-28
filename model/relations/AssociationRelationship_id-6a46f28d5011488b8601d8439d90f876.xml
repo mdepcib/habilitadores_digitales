@@ -1,0 +1,14 @@
+<archimate:AssociationRelationship
+    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="derivado de"
+    id="id-6a46f28d5011488b8601d8439d90f876">
+  <profiles
+      href="folder.xml#id-3a233f176e024a18ada5731bc2533d20"/>
+  <source
+      xsi:type="archimate:Grouping"
+      href="Grouping_id-0f38a6d53f184301a0f8d2418458c3bb.xml#id-0f38a6d53f184301a0f8d2418458c3bb"/>
+  <target
+      xsi:type="archimate:Grouping"
+      href="Grouping_id-9a3700a3e39442d98561141fe96162ab.xml#id-9a3700a3e39442d98561141fe96162ab"/>
+</archimate:AssociationRelationship>

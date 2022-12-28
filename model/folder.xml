@@ -1,0 +1,26 @@
+<archimate:ArchimateModel
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Business Motivation model"
+    id="id-745c4defdc874b97b647a52f061f9795"
+    version="4.9.0">
+  <profiles
+      name="Asignado a"
+      id="id-86284860cfd546ed824a653981c2c1c4"
+      conceptType="AssignmentRelationship"/>
+  <profiles
+      name="accede a"
+      id="id-f97c4d9bc4ab4c46a1ecad91c6726920"
+      conceptType="AccessRelationship"/>
+  <profiles
+      name="basada en"
+      id="id-1f079abb76dc4f4595866b5cc2c99211"
+      conceptType="RealizationRelationship"/>
+  <profiles
+      name="derivado de"
+      id="id-3a233f176e024a18ada5731bc2533d20"
+      conceptType="AssociationRelationship"/>
+  <profiles
+      name="realiza"
+      id="id-667a6963d30a40ecb8067a215bdd1236"
+      conceptType="RealizationRelationship"/>
+</archimate:ArchimateModel>
